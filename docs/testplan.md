@@ -3,8 +3,8 @@
 # Test Plan
 
 ## Index
-1. [Positive Scenarios](#positive-scenarios)
-2. [Negative Scenarios](#negative-scenarios)
+1. [Positive Scenarios](#positive-scenarios-valid-data)
+2. [Negative Scenarios](#negative-scenarios-invalid-data)
 
 ## Positive Scenarios (Valid Data)
 
