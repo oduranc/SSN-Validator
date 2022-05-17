@@ -13,6 +13,7 @@ class TestPrincipal(unittest.TestCase):
         self.assertEqual(principal.checkFirst("000"), False)
         self.assertEqual(principal.checkFirst("666"), False)
         self.assertEqual(principal.checkFirst("945"), False)
+        self.assertEqual(principal.checkFirst("4f5"), False)
 
     def test_checkSecond(self):
         #Positive Scenarios
